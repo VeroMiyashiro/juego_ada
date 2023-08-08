@@ -62,4 +62,4 @@ while not juego_terminado:
 
 
 if juego_terminado:
-    print("¡Fin del juego!")o
+    print("¡Fin del juego!")
